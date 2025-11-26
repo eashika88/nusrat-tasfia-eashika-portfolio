@@ -1,0 +1,163 @@
+{
+  "settings": {
+    "name": "Nusrat Tasfia Eashika",
+    "title": "Client Relationship Officer",
+    "location": "Bangladesh",
+    "summary": "Driven professional with expertise in leadership, analytics, and client relations, skilled in communication and content creation with data-driven insights.",
+    "profileImage": "https://media.istockphoto.com/id/1398385392/photo/happy-young-millennial-indian-business-woman-head-shot-portrait.jpg?s=612x612&w=0&k=20&c=QSRWD4KI7JCRJGdMKAhfUBv3Fc2v-7Nvu04iRMAPhGU="
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Get In Touch",
+          "url": "mailto:eashika88@gmail.com"
+        },
+        {
+          "text": "View Resume",
+          "url": "#"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "skills": {
+        "enabled": true,
+        "title": "Technical Skills",
+        "items": [
+          "Team Leadership and Training",
+          "AI-assisted content creation",
+          "Video Editing (CapCut)",
+          "Social Media Content Strategy",
+          "Client Relationship Management",
+          "Research and Data analysis",
+          "MS Word, MS Excel, Canva",
+          "Stata",
+          "Communication and Presentation"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Work Experience",
+      "items": [
+        {
+          "company": "The Second Source",
+          "position": "Client Relationship Officer",
+          "period": "Dec 2024 - Present",
+          "description": "Led the CRO team and trained new team members, ensuring smooth onboarding and improved performance. Assisted management in evaluating trainees to select the most suitable CRO candidate. Created and maintained MTD performance reports using MS Excel; conducted daily scrum meetings to track progress. Built and maintained strong client relationships, enhancing communication and trust. Managed workflows and coordinated tasks to support organizational goals. Executed lead outreach by sending service-focused marketing emails using pre-designed templates to promote company offerings."
+        },
+        {
+          "company": "MarketSwipe",
+          "position": "AI & Social Media Intern",
+          "period": "Dec 2024 - Aug 2024",
+          "description": "Developed and executed content strategies to drive audience engagement across platforms. Created an SOP and presented it to the founders. Led the Executive Team of Altruistic Market. Produced Al-generated UGC content to support brand communication. Utilized digital tools and AI to enhance content creation efficiency. Improved customer interaction and online visibility to support brand growth."
+        },
+        {
+          "company": "Bloomaid",
+          "position": "Virtual Intern",
+          "period": "Oct 2024 - Jul 2025",
+          "description": "Conducted research, surveys, and proposal drafting for social impact initiatives. Designed a Mental Health Day awareness poster focused on workplace well-being Supported project planning and awareness campaigns. Gained CapCut editing skills and conducted a presentation for the team.Assisted with content development and digital communication activities. Assisted in content development and digital communication activities."
+        }
+      ]
+    },
+    "projects": {
+      "enabled": false,
+      "title": "Featured Projects",
+      "items": [
+        {
+          "title": "New Project",
+          "description": "Presentation on Capcut\n",
+          "tags": [
+            "Tag 1",
+            "Tag 2"
+          ],
+          "previewUrl": "#https://youtu.be/kNjyPg-JiBM?si=MRah5LOnG2Zat7iy",
+          "repoUrl": "https://github.com/username/project"
+        },
+        {
+          "title": "New Project",
+          "description": "Description of the project",
+          "tags": [
+            "Tag 1",
+            "Tag 2"
+          ],
+          "previewUrl": "#",
+          "repoUrl": "https://github.com/username/project"
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "East West University",
+          "degree": "MSS, Economics",
+          "period": "Present"
+        },
+        {
+          "institution": "Noakhali Science and Technology University",
+          "degree": "BSS, Economics",
+          "period": "July 2025"
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": false,
+      "title": "Achievements & Certifications",
+      "items": []
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "eashika88@gmail.com",
+      "phone": null,
+      "location": "Bangladesh"
+    },
+    "social": {
+      "enabled": true,
+      "items": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/in/nusrat-tasfia-49288321a",
+          "icon": "linkedin"
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "enabled": true,
+    "items": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 Nusrat Tasfia Eashika. All rights reserved."
+  }
+}
